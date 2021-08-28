@@ -2,6 +2,7 @@
 Code for 30 days of ML Competition - https://www.kaggle.com/c/30-days-of-ml
 
 Final Private Rank = xx [top x%]
+Public Leaderboard rank = xx
 
 Tasks Involved
   1. Regression
